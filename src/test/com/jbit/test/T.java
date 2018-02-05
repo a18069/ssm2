@@ -14,6 +14,7 @@ import java.io.InputStream;
 import java.util.Scanner;
 
 public class T {
+    public void show(){}
 
     SqlSession session;
 
