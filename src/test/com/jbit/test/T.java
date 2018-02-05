@@ -14,7 +14,7 @@ import java.io.InputStream;
 import java.util.Scanner;
 
 public class T {
-    public void say(){};
+   
     SqlSession session;
 
     @Before
